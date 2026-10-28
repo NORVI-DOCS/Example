@@ -4,6 +4,23 @@
   "libraries": {
     "manager": [],
     "managerResolved": [],
-    "git": []
+    "git": [
+      {
+        "name": "Adafruit ADS1X15",
+        "url": "https://github.com/NORVIControllers/NORVI-X-Version-02",
+        "commit": "b28c363ea9734ca792a18ca8cd3e7c435ca8d8ea",
+        "contentSha256": "ab75a796fc4675d4de588c75cf1e78ad233cca5563c9a00671ca40689563c11d",
+        "subpath": "libraries/Adafruit_ADS1X15-master",
+        "scope": "shared"
+      },
+      {
+        "name": "Adafruit BusIO",
+        "url": "https://github.com/NORVIControllers/NORVI-X-Version-02",
+        "commit": "b28c363ea9734ca792a18ca8cd3e7c435ca8d8ea",
+        "contentSha256": "8934ea448e9cc5834f95ab220adefd9e2e7b1c12019876ba82d6ee5186291e6a",
+        "subpath": "libraries/Adafruit_BusIO",
+        "scope": "shared"
+      }
+    ]
   }
 }
