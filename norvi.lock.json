@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "enforcementLevel": "strict",
+  "libraries": {
+    "manager": [],
+    "managerResolved": [],
+    "git": []
+  }
+}
